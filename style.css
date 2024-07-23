@@ -104,6 +104,10 @@ body *{
 
 }
 
+#brilho button:hover{
+  outline: 8px solid var(--icones-color);
+}
+
 #brilho span{
   display: block;
   width: 64px;
